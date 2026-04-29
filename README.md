@@ -1,4 +1,4 @@
-# AI for Health - SRIP 2026
+# AI for Health
 Detecting breathing irregularities during sleep using physiological signals.
 
 ## What this does
@@ -19,5 +19,4 @@ python scripts/train_model.py --dataset_dir Dataset --epochs 20
 | Precision | 83.2%  |
 | Recall    | 91.2%  |
 
-## Note
-Chat-Gpt AI was used for assistance with parts dataset creation pipeline. All code has been reviewed and understood personally.
+## Thank You 
